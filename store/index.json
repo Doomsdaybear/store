@@ -789,4 +789,21 @@
     	"feat": "Inception",
     	"invert": true
   }
+	    {
+  "name": "SusChat",
+  "icon": "https://suschat.doomsdaybear.repl.co/favicon.ico",
+  "type": "app"
+  "data": {
+    "type": "IFrame",
+    "url": "https://suschat.doomsdaybear.repl.co/",
+    "gallery": [ 
+     "https://SusChat.doomsdaybear.repl.co/backgrounds/th.jpg"
+     "https://SusChat.doomsdaybear.repl.co/OIP.jpg"
+      "https://www.minecraft.net/content/dam/games/minecraft/screenshots/RayTracing-MineCraft-PMP-Always-Something-New.jpg"
+    ],
+    "desc": "SusChat, a proof of concept app where you talk to yourself (We will add online functionality when we figure out how)",
+    "feat": "Working text render.",
+    "invert": false,
+  }
+}
 }]
